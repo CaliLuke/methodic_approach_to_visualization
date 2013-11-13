@@ -6,4 +6,4 @@ Happiness
 
 ## Relationship to visualize
 
-TBD
+Is happiness related to gender or to age? Visualize the combination and try to identify a meaningful answer to this question.
